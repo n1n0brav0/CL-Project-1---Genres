@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://flypaper.soundfly.com/wp-content/uploads/2016/03/Cassette-cover-image.jpg);
+    background-size: contain;   
+}
+.project-heading{
+    background-color: #a9a9a999;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+.listing{
+    background-color: #a9a9a999;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+.listing2{
+    background-color: #a9a9a999;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.yesnobuttons{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.reloadbutton{
+    padding: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.canvas{
+    flex-shrink: inherit;
+    text-align: center;
+}
